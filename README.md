@@ -1,7 +1,9 @@
+
 Power BI Analysis Report: Bank Customer Insights
 
 Our recent Power BI project unveiled several crucial insights regarding bank customer behavior. The project involved comprehensive data management steps such as data cleaning, modeling, analysis, and visualization.
 
+![Alt text](image-3.png)
 
 Data Management:
 Upon importing data from an external source, we employed Power Query to transform and clean the data, ensuring its meaningfulness and relevance. Our modeling phase involved creating relationships between the primary table, 'Bank Chunk', and several associated tables including Gender, Geography, Exit Customer, Customer Info, Credit Card, and Active Customer. These relationships were primarily of a 'many-to-one' nature. We further enhanced the model by integrating a Date Master table using DAX formulas.
